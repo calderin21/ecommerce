@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 db_connect.php
 db_ecommerce.php
 **/*connect*
+=======
+db_connect
+db_ecommerce
+
+>>>>>>> 9ff26be (Añadido gitignore)
