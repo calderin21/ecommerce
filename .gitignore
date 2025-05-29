@@ -1,2 +1,2 @@
-db_connect
-db_ecommerce
+db_connect.php
+db_ecommerce.php
