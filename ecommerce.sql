@@ -59,7 +59,7 @@ CREATE TABLE `contacto` (
   `nombre` varchar(250) NOT NULL DEFAULT '',
   `email` varchar(50) NOT NULL DEFAULT '',
   `mensaje` varchar(1000) NOT NULL DEFAULT '0',
-  `fecha` date NOT NULL DEFAULT curdate()
+  `fecha` date NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
