@@ -1,10 +1,21 @@
 <?php 
+<<<<<<< HEAD
 
 
   $db_host = "localhost";
+=======
+/*
+$db_host = 'lantigua21.com';
+$db_user = 'lantigua21';		
+$db_pass ='Lantigua@21';
+$db_database= 'lantigua21';
+$db_port = '3306';
+*/
+   $db_host = "localhost";
+>>>>>>> f5ecfbf (actualizacion del db connect)
   $db_user = "webuser";
   $db_pass = "webuser";
-  $db_database = "ecommerce";
+  $db_database = "adminlte";
   $db_port = '3306';
 
 //directivas necesarias para desactivar errores y warnings así como no detener la ejecución si hay error
