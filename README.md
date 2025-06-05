@@ -18,3 +18,16 @@ Hola, Soy Constantino Lantigua Docente de la Familia de informática y comunicac
 |     3| SQL       |
 |     4| HTML5     |
 |     5| CSS       |
+
+<details>
+<summary>Lenguajes usados en el repositorio.</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| PHP       |
+|     3| SQL       |
+|     4| HTML5     |
+|     5| CSS       |
+
+</details>
