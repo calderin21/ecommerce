@@ -64,7 +64,7 @@ Hola, Soy Constantino Lantigua Docente de la Familia de informática y comunicac
 </details>
 
 <details>
-<summary>Listadon de alumnos.</summary>
+<summary>Listado de alumnos.</summary>
   
   - Ana
   - Isabel
