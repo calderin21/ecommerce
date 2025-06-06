@@ -11,9 +11,9 @@
 
 <picture>
 <img
-    alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."
+    alt="Imagen que veremos."
     src="https://lantigua21.com/programmer.png"
-    style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"
+    style="width: 200px; height: 200px; "
   > 
 </picture>
 
