@@ -9,25 +9,16 @@
 #### Prueba html más Markdown
 
 
-
-
-
-
-
-
-
-
-
-
-
 <picture>
+  <!--
   <source media="(prefers-color-scheme: dark)" srcset="https://lantigua21.com/programmer.png">
   <source media="(prefers-color-scheme: light)" srcset="https://lantigua21.com/programmer.png">
-  <img
+  -->
+<img
     alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."
     src="https://lantigua21.com/programmer.png"
     style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"
-  >
+  > 
 </picture>
 
 ## Sobre mi
