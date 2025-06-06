@@ -9,9 +9,12 @@
   >
 </picture>
 
-## About me
+## Sobre mi
 
 Hola, Soy Constantino Lantigua Docente de la Familia de informática y comunicaciones del Servicio Canario de Empleo. Actualmente imparto el CP IFCD0211 sistemas de gestión  de informacion.
+
+[Ver el proyecto en funcionamiento](https://lantigua21.com/ecommerce)
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
@@ -32,3 +35,4 @@ Hola, Soy Constantino Lantigua Docente de la Familia de informática y comunicac
 |     5| CSS       |
 
 </details>
+
