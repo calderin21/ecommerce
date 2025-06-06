@@ -76,3 +76,25 @@ Hola, Soy Constantino Lantigua Docente de la Familia de informática y comunicac
     
 </details>
 
+-----  
+
+1. Primer elemento
+2. Segundo nivel
+    1. Subnivel 1  
+      1. Subnivel 2  
+    2. Subnivel 1  
+3. Segundo elemento  
+4. Tercer elmentos
+   1. Subnivel 1  
+      1. Subnivel 2  
+   2. Subnivel 1  
+
+- Primer elemento
+- Segundo nivel
+    - Subnivel 1  
+      - Subnivel 2  
+    - Subnivel 1  
+- Segundo elemento  
+- Tercer elmentos
+
+----- 
