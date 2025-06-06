@@ -12,7 +12,7 @@
 <picture>
 <img
     alt="Imagen que veremos."
-    src="https://lantigua21.com/programmer.png"
+    src="https://lantigua21.com/programmer.jpg"
     style="width: 200px; height: 200px; "
   > 
 </picture>
