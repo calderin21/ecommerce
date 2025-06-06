@@ -1,4 +1,12 @@
 <h1>Prueba html más Markdown</h1>
+<h2>Prueba html más Markdown</h2>
+<h3>Prueba html más Markdown</h3>
+<h4>Prueba html más Markdown</h4>
+
+# Prueba html más Markdown
+## Prueba html más Markdown
+### Prueba html más Markdown
+#### Prueba html más Markdown
 
 
 
@@ -53,5 +61,18 @@ Hola, Soy Constantino Lantigua Docente de la Familia de informática y comunicac
 |     4| HTML5     |
 |     5| CSS       |
 
+</details>
+
+<details>
+<summary>Listadon de alumnos.</summary>
+  
+  - Ana
+  - Isabel
+  - Carlos
+  - JJ
+  - David
+  - Joel
+  - Neftali de jesus
+    
 </details>
 
